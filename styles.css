@@ -1,3 +1,13 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center; /* Centrado vertical */
+  justify-content: center; /* Centrado horizontal */
+}
+
 .post {
   border: 1px solid #dbdbdb;
   border-radius: 3px;
